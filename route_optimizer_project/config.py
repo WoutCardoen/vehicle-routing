@@ -1,0 +1,8 @@
+STOCK_FILE = r"C:\Users\EXY909\OneDrive - NMBS SNCB\Documents\ewm\Nieuwe map\LQUA.XLSX"
+DEMAND_FILE = r"C:\Users\EXY909\OneDrive - NMBS SNCB\Documents\ewm\Nieuwe map\demand.XLSX"
+
+HOME = "MECHELEN_DEPOT"
+HOME_COORDS = (51.015836, 4.489003)
+MAX_COMBINATION_SIZE = 12
+TRUCK_FACTOR = 1.2
+LOAD_TIME = 20
